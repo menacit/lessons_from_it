@@ -50,12 +50,6 @@ Let's dig in!
 
 ---
 <!-- _footer: "%ATTRIBUTION_PREFIX% William Warby (CC BY 2.0)" -->
-### Get yourself a "work phone"
-
-![bg right:30%](images/phone.jpg)
-
----
-<!-- _footer: "%ATTRIBUTION_PREFIX% William Warby (CC BY 2.0)" -->
 ### Learn to love the ticketing system
 
 ![bg right:30%](images/owl.jpg)
@@ -67,16 +61,16 @@ Let's dig in!
 ![bg right:30%](images/log_on_log.jpg)
 
 ---
-<!-- _footer: "%ATTRIBUTION_PREFIX% Jan Bommes (CC BY 2.0)" -->
-### Trust is easy to loose
-
-![bg right:30%](images/broken_floor.jpg)
-
----
 <!-- _footer: "%ATTRIBUTION_PREFIX% Steve Jurvetson (CC BY 2.0)" -->
 ### No one knows everything
 
 ![bg right:30%](images/drones.jpg)
+
+---
+<!-- _footer: "%ATTRIBUTION_PREFIX% Jan Bommes (CC BY 2.0)" -->
+### Trust is easy to loose
+
+![bg right:30%](images/broken_floor.jpg)
 
 ---
 <!-- _footer: "%ATTRIBUTION_PREFIX% Martin Fisch (CC BY 2.0)" -->
@@ -101,6 +95,12 @@ Let's dig in!
 ### Learn who controls the money
 
 ![bg right:30%](images/business_man_graffiti.jpg)
+
+---
+<!-- _footer: "%ATTRIBUTION_PREFIX% William Warby (CC BY 2.0)" -->
+### Get yourself a "work phone"
+
+![bg right:30%](images/phone.jpg)
 
 ---
 <!-- _footer: "%ATTRIBUTION_PREFIX% Solarbotics (CC BY 2.0)" -->
